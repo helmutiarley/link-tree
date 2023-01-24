@@ -1,5 +1,5 @@
 # link-tree
-### Recebe dados via JSON e os consome para publicar botões dinamicamente.
+#### Recebe dados via JSON e os consome para publicar botões dinamicamente.
 
 
 ## Próxima features: 
