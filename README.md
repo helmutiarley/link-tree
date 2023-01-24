@@ -9,4 +9,6 @@
 #### 3 - Tornar o botão (link) clicável.
 #### 4 - Rotatividade para botões (ex: tornar o link rotativo entre 2 ou mais redirecionamentos de WhatsApp, para tornar igualitária a quantidade de clientes para cada colaborador)
 
-> npm i
+Ao clonar este repositório, é necessário instalar a pasta node_modules (não remover o .gitignore):
+
+> npm init -y
