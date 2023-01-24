@@ -14,9 +14,5 @@ export const dados = {
     "4": {
         nome: "Facebook",
         link: "https://www.facebook.com/helmutiarleyy/"
-    },
-    "5": {
-        nome: "link novo",
-        link: "teste.com.br"
     }
 }
